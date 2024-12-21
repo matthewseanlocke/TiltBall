@@ -208,6 +208,4 @@ window.addEventListener('orientationchange', checkOrientation);
 
 // Listen for Window Resize to Adjust Boundaries
 window.addEventListener('resize', handleResize);
-
-// Optional: Listen for Orientation Changes to Adjust Boundaries
 window.addEventListener('orientationchange', handleResize);
